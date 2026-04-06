@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("hello sajid")
 for (let index = 0; index < array.length; index++) {
     const element = array[index];
     console.log(element*element);
